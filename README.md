@@ -20,6 +20,11 @@ Este repositório contém a documentação e os diagramas relacionados à transi
 ## Introdução
 Este documento detalha a transição de uma arquitetura legada para uma solução modernizada em AWS. A seguir, são apresentados os diagramas que ilustram a arquitetura atual e a proposta de modernização.
 
+### Integrantes da dupla
+
+[**Thalisson Lima**](https://www.github.com/thalssn) <br>
+[**Bruno Pereira**](https://www.github.com/brun-psilva) <br> 
+
 ## Arquitetura Atual
 
 A arquitetura atual consiste em uma aplicação monolítica, com os seguintes componentes:
